@@ -1,6 +1,6 @@
 import { uploadPhoto, createUser } from './utils';
 
-//const function handleProfileSignup(promise) => 
+// const function handleProfileSignup(promise) =>
 // return 'promise.body';
 
 function handleProfileSignup(promise) {
