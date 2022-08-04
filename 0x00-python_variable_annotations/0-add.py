@@ -4,4 +4,4 @@
 
 def add(a: float, b: float) -> float:
     """Adds functions and returns sum"""
-    return (a, b)
+    return (add(a, b))
